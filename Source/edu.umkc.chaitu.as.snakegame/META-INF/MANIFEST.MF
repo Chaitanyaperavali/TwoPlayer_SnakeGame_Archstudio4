@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Snakegame
+Bundle-SymbolicName: edu.umkc.chaitu.as.snakegame
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: edu.umkc.chaitu.as.snakegame.Activator
+Bundle-Vendor: Chaitanya Peravalli
+Require-Bundle: org.eclipse.core.runtime,
+ edu.uci.isr.myx.fw;bundle-version="4.1.50"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
